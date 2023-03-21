@@ -1,0 +1,32 @@
+/* .instance{
+    font-size: 8px;
+    text-align: right;
+     margin-bottom: 0;
+}
+.instance p {
+    margin-bottom: 0;
+} */
+.note p {
+    font-size: 1.1em;
+    margin-bottom: 10px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+  
+  .note button {
+    position: relative;
+    float: right;
+    margin-right: 10px;
+    color: #f5ba13;
+    border: none;
+    width: 36px;
+    height: 36px;
+    cursor: pointer;
+    outline: none;
+    background-color: unset;
+  }
+  /* .note button:hover{
+    background-color: unset;
+  } */
+  
+
